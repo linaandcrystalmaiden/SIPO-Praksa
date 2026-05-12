@@ -5,9 +5,10 @@ Tehnik Računalništva 1 letnik
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Kaj je os?
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a60186c0-1a78-4496-a6d3-d3a87ebd163d" />
 
 Operacijski sistem (OS) je osnovna programska oprema računalnika ali telefona. Njegova naloga je upravljanje delovanja naprave in omogočanje uporabe drugih programov. Operacijski sistem povezuje uporabnika z računalnikom ter skrbi za pravilno delovanje strojne in programske opreme. Upravlja pomnilnik, datoteke, programe ter nadzoruje naprave, kot so tipkovnica, miška, zaslon in tiskalnik. Brez operacijskega sistema računalnik ali telefon ne bi mogel normalno delovati. Med najbolj znane operacijske sisteme spadajo Windows, macOS, Linux, Android in iOS.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a60186c0-1a78-4496-a6d3-d3a87ebd163d" />
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -64,6 +65,8 @@ HDD (trdi disk) podatke shranjuje na vrteče se magnetne plošče. Je cenejši i
 SSD podatke shranjuje elektronsko, brez premikajočih delov. Je veliko hitrejši, tišji in bolj zanesljiv, vendar običajno dražji.
 
 Glavna razlika je torej v hitrosti in načinu delovanja.
+
+<img width="300" height="368" alt="image" src="https://github.com/user-attachments/assets/d6f40f73-8bc7-497e-ba73-d5355f8104df" />
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
