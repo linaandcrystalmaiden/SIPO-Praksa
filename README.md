@@ -66,7 +66,7 @@ SSD podatke shranjuje elektronsko, brez premikajočih delov. Je veliko hitrejši
 
 Glavna razlika je torej v hitrosti in načinu delovanja.
 
-<img width="300" height="368" alt="image" src="https://github.com/user-attachments/assets/d6f40f73-8bc7-497e-ba73-d5355f8104df" />
+<img width="800" height="368" alt="image" src="https://github.com/user-attachments/assets/d6f40f73-8bc7-497e-ba73-d5355f8104df" />
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
