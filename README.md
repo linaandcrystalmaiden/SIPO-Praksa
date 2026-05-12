@@ -35,7 +35,7 @@ Razlike med Windows, Linux in macOS
 
 - macOS je operacijski sistem podjetja Apple. Deluje na računalnikih Mac in je znan po enostavni uporabi, varnosti ter dobri povezavi z drugimi Apple napravami.
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/99d909f8-ae40-42f4-9b57-f36df09f439d" />
+<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/99d909f8-ae40-42f4-9b57-f36df09f439d" />
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Kaj pomeni, da se program naloži ob zagonu?
