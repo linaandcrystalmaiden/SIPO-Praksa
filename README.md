@@ -4,11 +4,71 @@ Tehnik Računalništva 1 letnik
 1.A 
 
 Kaj je os?
+Operacijski sistem (OS) je osnovna programska oprema računalnika ali telefona. Njegova naloga je upravljanje delovanja naprave in omogočanje uporabe drugih programov. Operacijski sistem povezuje uporabnika z računalnikom ter skrbi za pravilno delovanje strojne in programske opreme. Upravlja pomnilnik, datoteke, programe ter nadzoruje naprave, kot so tipkovnica, miška, zaslon in tiskalnik. Brez operacijskega sistema računalnik ali telefon ne bi mogel normalno delovati. Med najbolj znane operacijske sisteme spadajo Windows, macOS, Linux, Android in iOS.
+
 
 3 naloge 
+
+Upravljanje programov
+
+Operacijski sistem omogoča zagon in delovanje programov ter skrbi, da več programov lahko deluje hkrati.
+
+Upravljanje strojne opreme
+
+Nadzira delovanje naprav, kot so tipkovnica, miška, zaslon, tiskalnik in zvočniki.
+
+Upravljanje datotek in pomnilnika
+
+Skrbi za shranjevanje, organizacijo in uporabo podatkov ter pomnilnika računalnika.
+
+
+
+
 windows / linux /maxos razlike
+
+Windows je najbolj razširjen operacijski sistem. Je enostaven za uporabo in podpira veliko programov ter iger. Pogosto se uporablja doma, v šolah in podjetjih.
+
+Linux je odprtokodni operacijski sistem, kar pomeni, da ga lahko uporabniki prilagajajo. Pogosto se uporablja na strežnikih in pri programiranju. Je zelo varen in stabilen.
+
+macOS je operacijski sistem podjetja Apple. Deluje na računalnikih Mac in je znan po enostavni uporabi, varnosti ter dobri povezavi z drugimi Apple napravami.
+
+
 kaj pomeni da se nalozi ob zagonu
+To pomeni, da se program samodejno zažene, ko vklopimo računalnik oziroma ko se zažene operacijski sistem. Nekateri programi se naložijo ob zagonu zato, da so pripravljeni za uporabo ali da skrbijo za pravilno delovanje računalnika.
+
 kaj je gonilnik
+
+Gonilnik je poseben program, ki omogoča komunikacijo med operacijskim sistemom in strojno opremo. Brez gonilnikov računalnik ne bi pravilno prepoznal naprav.
+
+Gonilnike potrebujemo za:
+
+tiskalnik,
+grafično kartico,
+tipkovnico,
+miško,
+zvočno kartico,
+kamero in druge naprave.
+
+
 kje ga potrebujemo
+
 hdd us ssd
-kaj je particije
+HDD (trdi disk) podatke shranjuje na vrteče se magnetne plošče. Je cenejši in omogoča veliko prostora za shranjevanje, vendar deluje počasneje.
+
+SSD podatke shranjuje elektronsko, brez premikajočih delov. Je veliko hitrejši, tišji in bolj zanesljiv, vendar običajno dražji.
+
+Glavna razlika je torej v hitrosti in načinu delovanja.
+
+Kaj je particije?
+
+Particije so razdeljeni deli trdega diska ali SSD-ja. Z njimi lahko en disk razdelimo na več manjših delov, ki delujejo kot ločeni diski.
+Na primer:
+
+
+ena particija je lahko namenjena operacijskemu sistemu,
+
+
+druga pa shranjevanju dokumentov, slik ali iger.
+
+
+Particije pomagajo pri boljši organizaciji podatkov in lažjem upravljanju računalnika.
